@@ -1,4 +1,6 @@
-package com.example.algorithms
+package com.example.algorithms.tree
+
+import com.example.algorithms.TreeNode
 
 fun main(args: Array<String>) {
     val root = TreeNode(4)
